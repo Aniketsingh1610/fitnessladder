@@ -21,7 +21,7 @@ export default function Landingpage() {
         </span> <br />
 
         <div className='grid text-xl'>
-          <span>#NOT SO ORGINAL</span>
+          <span>#20YEARS OF SERVICE</span>
           <span>TO THE FITNESS & WELLNESS COMMUNITY.</span>
           <span>#HEREFORYOU</span>
           <span>#HERETOSTAY</span>
